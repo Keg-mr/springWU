@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+.LOGGA {
+    font-family: Georgia, serif;
+}
 
 header {
     display:flex;
@@ -8,10 +11,6 @@ header {
     padding:20px;
     border-bottom:1px solid #7e7e7e;
     height: 150px;
-    background-image: url(../img/6fbc19c2f2bbfa197289a378295526ef.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: right;
 
 }
 
@@ -21,8 +20,8 @@ nav a{
     margin:0 10px;
     text-decoration:none;
     color:black;
-    margin: 30px;
-    
+    margin: 20px;
+    font-family: arial, sans-serif;
    
     
 
@@ -48,7 +47,7 @@ nav a{
     height: auto;
    transition: 0.3s;
    box-shadow: 0px 4px 10px #5f5f5f;
-   border-radius: 10px;
+   border-radius: 4px;
 
 }
 
